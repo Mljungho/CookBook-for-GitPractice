@@ -1,0 +1,42 @@
+[33mcommit f74bc50e977cdea3643575dfdc4aa8db1d9db025[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mLove/master[m[33m)[m
+Author: DefyCab <love.bellinder@gmail.com>
+Date:   Mon Oct 18 18:25:19 2021 +0200
+
+    git pong with Gavin
+
+[33mcommit 3d5ec43374a5333a93635e82361fa4662bc50507[m
+Merge: bf39104 3d147ec
+Author: DefyCab <love.bellinder@gmail.com>
+Date:   Mon Oct 18 18:19:45 2021 +0200
+
+    Merge branch 'master' of https://github.com/gsim1903/CookBook-for-GitPractice
+
+[33mcommit 3d147ec1169534dd5b2d62fb553e17d69ee64048[m
+Author: gsim1903 <gavin@internetbusker.co>
+Date:   Mon Oct 18 09:02:28 2021 +0200
+
+    Pancakes
+
+[33mcommit bf39104b4fb4ad3208ee427a4f42bdbf77c0d7c1[m
+Author: DefyCab <love.bellinder@gmail.com>
+Date:   Sun Oct 17 23:59:31 2021 +0200
+
+    Småfix
+
+[33mcommit ed0ac7ca8c40442b8fb1b941934a42fe42e7f6d9[m
+Author: DefyCab <love.bellinder@gmail.com>
+Date:   Sun Oct 17 23:53:36 2021 +0200
+
+    La till kroppkakor
+
+[33mcommit d28c6b98e5188a5f21fe41ee90724a9921de32f7[m
+Author: Your Name <you@example.com>
+Date:   Sun Oct 17 20:42:10 2021 +0200
+
+    home.html
+
+[33mcommit 54c7d706110a6ec4bd94f0f0653e590d1847c668[m
+Author: Your Name <you@example.com>
+Date:   Sun Oct 17 15:48:32 2021 +0200
+
+    CookBook for version controll practice
